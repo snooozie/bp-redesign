@@ -112,6 +112,7 @@ html {
 .hero-video {
 	z-index: 0;
 	position: relative;
+	overflow: hidden;
 }
 
 .hero-text {
