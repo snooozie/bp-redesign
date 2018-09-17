@@ -133,7 +133,7 @@ html {
 }
 
 .picture-1 {
-	width: 100%;
+	width: auto;
 	height: auto;
 	padding-top: 65px;
 	padding-right: 150px;
