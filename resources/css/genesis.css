@@ -132,12 +132,12 @@ html {
 
 .section-2 {
 	height: 900px;
-
 }
 
 .picture-1 {
 	width: auto;
 	height: 500px;
+	max-width: 100%;
 }
 
 /* Section 3
