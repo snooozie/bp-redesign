@@ -134,6 +134,12 @@ html {
 	height: 900px;
 }
 
+.section-2-content {
+	margin: 100px auto;
+	width: 80%;
+
+}
+
 .picture-1 {
 	width: auto;
 	height: auto;
@@ -1927,6 +1933,7 @@ p.entry-meta {
 	.first {
 		clear: both;
 		margin-left: 0;
+		padding: 0;
 	}
 
 	/* Entry Misc.
