@@ -105,17 +105,22 @@ html {
 
 .hero-section {
 	width: 100%;
-	display: flex;
-	overflow: hidden;
+	height: 100%;
+	position: absolute;
+	padding:0;
+	margin:0;
+	left: 0px;
+	top: 0px;
+	z-index: -1000;
+	overflow:hidden;
 }
 
 .hero-video {
-	z-index: 0;
-	top: 0; left: 0; 	
-	position: absolute;
-	overflow: hidden;
-	width: auto;
-	height: auto;
+	min-height: 100%;
+    min-width:100%;
+	position:absolute;
+	bottom:0;
+	left:0;
 }
 
 .hero-text {
