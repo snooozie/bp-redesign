@@ -104,16 +104,18 @@ html {
 --------------------------------------------- */
 
 .hero-section {
-	background: rgba(0, 0, 0, 0.6);
-  	height: 100%;
-  	position: fixed;
-  	width: 100%;
-  	z-index: 1;
+	width: 100%;
+	display: flex;
+	overflow: hidden;
 }
 
-video {
-	height: 100%;
-  	width: 100%; 
+.hero-video {
+	z-index: 0;
+	top: 0; left: 0; 	
+	position: absolute;
+	overflow: hidden;
+	width: auto;
+	height: auto;
 }
 
 .hero-text {
