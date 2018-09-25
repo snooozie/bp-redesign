@@ -110,8 +110,11 @@ html {
 	overflow: hidden;
 }
 
-#bp-video {
-	
+video#bg-video {
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
 }
 
 .hero-text {
