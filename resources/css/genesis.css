@@ -104,18 +104,14 @@ html {
 --------------------------------------------- */
 
 .hero-section {
+	height: 100%;
 	width: 100%;
 	display: flex;
 	overflow: hidden;
 }
 
-.hero-video {
-	z-index: 0;
-	top: 0; left: 0; 	
-	position: absolute;
-	overflow: hidden;
-	width: auto;
-	height: auto;
+#bp-video {
+	
 }
 
 .hero-text {
