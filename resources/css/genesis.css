@@ -103,9 +103,8 @@ html {
 /* My CSS
 --------------------------------------------- */
 
-.hero-section
-
-.bg-image {
+.hero-section {
+	background-image: url("../images/bp-background.jpg");
 	height: 100%;
 	background-position: center;
 	background-repeat: no-repeat;
