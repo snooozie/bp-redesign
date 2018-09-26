@@ -104,26 +104,10 @@ html {
 --------------------------------------------- */
 
 .hero-section {
-	height: 100%;
-	width: 100%;
-	display: flex;
-	overflow: hidden;
-}
-
-video#bg-video {
-	min-width: 100%;
-	min-height: 100%;
-	width: auto;
-	height: auto;
-}
-
-.hero-text {
-	padding-left: 200px;
-	padding-top: 300px;
-	width: 900px;
-	color: white;
-	z-index: 1;
-	position: absolute;
+	background-image:url('../images/background.jpg');
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-position:center;
 }
 
 /* Section 2
