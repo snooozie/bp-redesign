@@ -105,9 +105,10 @@ html {
 
 .hero-section {
 	background-image:url('../images/background.jpg');
-	background-repeat:no-repeat;
-	background-size:contain;
-	background-position:center;
+	height: 100%;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /* Section 2
