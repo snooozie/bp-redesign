@@ -1718,6 +1718,16 @@ p.entry-meta {
 
 @media only screen and (min-width: 960px) {
 
+	/* Typography
+	--------------------------------------------- */
+	h1 {
+		font-size: 37px;
+	}
+
+	p {
+		font-size: 27px;
+	}
+
 
 	/* Site Header
 	--------------------------------------------- */
