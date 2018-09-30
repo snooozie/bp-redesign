@@ -235,6 +235,35 @@ html {
     flex: 1;
 }
 
+/* Block Page CSS
+--------------------------------------------- */
+
+.block-header {
+	height: 373px;
+	background-image: url(../images/cta-background.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.block-header-content {
+	max-width: 700px;
+	margin: 0px auto 0px auto;
+	text-align: center;
+	padding-top: 60px;
+}
+
+.flexContainer {
+	display: flex;
+	width: 30%;
+	margin: 0px auto 0px auto;
+	padding-top: 20px;
+}
+
+.inputField {
+    flex: 1;
+}
+
 /* Float Clearing
 --------------------------------------------- */
 
