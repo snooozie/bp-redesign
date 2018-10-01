@@ -1402,6 +1402,20 @@ li a {
 	position: static;
 }
 
+.responsive-menu-icon {
+	cursor: pointer;
+	display: none; }
+  
+.responsive-menu-icon::before {
+	color: #000;
+	background-color: #fff;
+	padding: 10px;
+	text-align: center;
+	display: block;
+	content: "";
+	font: normal 20px/1 "dashicons";
+	font-size: 1.5em; } 
+
 .menu .menu-item > a:focus + ul.sub-menu,
 .menu .menu-item.sfHover > ul.sub-menu {
 	left: auto;
