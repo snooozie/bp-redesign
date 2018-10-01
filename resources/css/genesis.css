@@ -1999,6 +1999,80 @@ p.entry-meta {
 
 }
 
+@media only screen and (max-width: 800px) {
+	body {
+	  background-color: #fff;
+	  font-size: 16px;
+	  font-size: 1.6rem; }
+	.site-inner, .wrap {
+	  padding-left: 5%;
+	  padding-right: 5%; }
+	.archive-description, .author-box, .comment-respond, .entry, .entry-comments, .entry-pings, .sidebar .widget, .site-header {
+	  padding: 0; }
+	.archive-pagination li a {
+	  margin-bottom: 4px; }
+	.five-sixths, .four-sixths, .one-fourth, .one-half, .one-sixth, .one-third, .three-fourths, .three-sixths, .two-fourths, .two-sixths, .two-thirds {
+	  margin: 0;
+	  width: 100%; }
+	.sidebar .widget.enews-widget {
+	  padding: 40px; }
+	.responsive-menu-icon {
+	  display: block; }
+	.responsive-menu {
+	  display: none; }
+	  .responsive-menu .menu-item {
+		display: block; }
+		.responsive-menu .menu-item .menu-item:hover {
+		  position: static; }
+	  .responsive-menu li.current-menu-item > a, .responsive-menu li.current-page-ancestor > a, .responsive-menu li:hover > a {
+		border-bottom: none !important; }
+	  .responsive-menu .menu-item-has-children {
+		cursor: pointer; }
+	  .responsive-menu .menu-item-has-children > a {
+		margin-right: 60px; }
+	  .responsive-menu .menu-item-has-children:before {
+		content: "";
+		color: #000;
+		float: right;
+		font: normal 20px/1 "dashicons";
+		height: 20px;
+		padding: 15px 20px;
+		right: 0;
+		text-align: right;
+		z-index: 9999; }
+	  .responsive-menu .menu-item:last-child .sub-menu li:last-child a {
+		padding-bottom: 20px; }
+	  .responsive-menu .menu-open.menu-item-has-children:before {
+		content: ""; }
+	  .responsive-menu > .menu-item > .sub-menu {
+		display: none; }
+	  .responsive-menu .sub-menu {
+		left: auto;
+		background: transparent !important;
+		color: #000 !important;
+		opacity: 1;
+		position: relative;
+		width: 100%;
+		z-index: 99; }
+		.responsive-menu .sub-menu .sub-menu {
+		  background-color: transparent;
+		  margin: 0;
+		  padding-left: 25px; }
+		.responsive-menu .sub-menu li a,
+		.responsive-menu .sub-menu li a:hover {
+		  background: transparent !important;
+		  color: #000 !important;
+		  border: none;
+		  padding: 12px 20px;
+		  position: relative;
+		  text-transform: none;
+		  width: 100%; }
+	  .responsive-menu .current-menu-item > a,
+	  .responsive-menu .sub-menu .current-menu-item > a:hover,
+	  .responsive-menu > li.menu-item-has-children:hover > a,
+	  .responsive-menu a:hover {
+		background: none; } }
+
 
 /* Print Styles
 ---------------------------------------------------------------------------------------------------- */
