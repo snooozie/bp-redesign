@@ -110,12 +110,12 @@ html {
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
-	padding: 300px 0;
 }
 
 .one-half-content {
 	color: white;
-	width: 80%;
+	min-width: 80%;
+	padding
 }
 
 /* Section 2
