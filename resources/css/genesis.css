@@ -110,11 +110,11 @@ html {
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
+	padding: 300px 0;
 }
 
 .one-half-content {
 	color: white;
-	margin: 300px auto;
 	width: 80%;
 }
 
