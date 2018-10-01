@@ -133,6 +133,7 @@ html {
 	height: auto;
 	max-width: 100%;
 	box-shadow: 0px 5px 50px -1px rgba(0,0,0,0.3);
+	max-width: 600px;
 }
 
 /* Section 3
@@ -156,6 +157,7 @@ html {
 .picture-2 {
 	height: auto;
 	box-shadow: 0px 5px 50px -1px rgba(0,0,0,0.3);
+	max-width: 600px;
 }
 
 /* Section 4
