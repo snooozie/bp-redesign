@@ -2022,8 +2022,9 @@ p.entry-meta {
 	}
 
 	p {
-		font-size: 10.9vw;
+		font-size: 4.9vw;
 		padding: 21px;
+		line-height: 22px;
 	}
 	.site-inner, .wrap {
 	  padding-left: 5%;
