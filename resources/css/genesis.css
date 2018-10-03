@@ -2026,6 +2026,11 @@ p.entry-meta {
 		line-height: 22px;
 	}
 
+	.secondary-button {
+		width: 100%;
+		font-size: 4.25em;
+	}
+
 	.section-2-content {
 		margin: 21px;
 	}
