@@ -2020,6 +2020,11 @@ p.entry-meta {
 		padding: 21px;
 		line-height: 40px;
 	}
+
+	p {
+		font-size: 10.9vw;
+		padding: 21px;
+	}
 	.site-inner, .wrap {
 	  padding-left: 5%;
 	  padding-right: 5%; }
