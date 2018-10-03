@@ -2026,6 +2026,11 @@ p.entry-meta {
 		padding: 21px;
 		line-height: 22px;
 	}
+
+	.section-2-content {
+		margin: 21px;
+	}
+	
 	.site-inner, .wrap {
 	  padding-left: 5%;
 	  padding-right: 5%; }
