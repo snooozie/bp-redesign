@@ -282,6 +282,15 @@ html {
 	padding-top: 60px;
 }
 
+/* Pricing Page Content
+--------------------------------------------- */
+
+.pricing-cards {
+	background-color: #777;
+}
+
+
+
 /* Float Clearing
 --------------------------------------------- */
 
