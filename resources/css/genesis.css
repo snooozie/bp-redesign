@@ -288,6 +288,7 @@ html {
 .card {
 	background: rgb(141, 141, 141);
 	width: 30%;
+	display: inline-block;
 }
 
 .pricing-cards {
