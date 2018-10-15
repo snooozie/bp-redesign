@@ -289,7 +289,11 @@ html {
 	background: rgb(141, 141, 141);
 }
 
-.card-content {
+.pricing-cards {
+	width: 30%;
+}
+
+.container {
 	text-align: center;
 }
 
