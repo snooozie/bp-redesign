@@ -285,8 +285,7 @@ html {
 /* Pricing Page Content
 --------------------------------------------- */
 
-.card {
-	background: rgb(141, 141, 141);
+.one-third {
 	width: 30%;
 	display: inline-block;
 }
