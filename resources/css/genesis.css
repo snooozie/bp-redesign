@@ -285,8 +285,8 @@ html {
 /* Pricing Page Content
 --------------------------------------------- */
 
-.card-wrapper {
-	
+.pricing-wrapper {
+	padding: 75px;
 }
 
 .one-third {
@@ -1980,10 +1980,6 @@ p.entry-meta {
 
 	.one-third,
 	.two-sixths {
-		width: 30%;
-	}
-
-	.one-third-pricing {
 		width: 30%;
 	}
 
