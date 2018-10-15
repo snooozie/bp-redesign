@@ -285,8 +285,9 @@ html {
 /* Pricing Page Content
 --------------------------------------------- */
 
-.one-third {
+.card {
 	background: rgb(141, 141, 141);
+	width: 30%;
 }
 
 .pricing-cards {
