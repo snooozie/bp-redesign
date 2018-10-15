@@ -285,6 +285,10 @@ html {
 /* Pricing Page Content
 --------------------------------------------- */
 
+.card-wrapper {
+	
+}
+
 .one-third {
 	width: 30%;
 	display: inline-block;
